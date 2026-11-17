@@ -1,7 +1,13 @@
 # Dip-Bounce cbBTC Bot
 
-A long-only trading bot for the make.fun BTC race
-(`btc-race-24h-20261117-0603`): it trades Coinbase Wrapped BTC (cbBTC)
+[![make.fun](https://make.fun/badge/btc-race-24h-20261117-0603.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603)
+[![Rank](https://make.fun/badge/btc-race-24h-20261117-0603/Janetide/btc-trading-bot/rank.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603)
+[![Reward](https://make.fun/badge/btc-race-24h-20261117-0603/Janetide/btc-trading-bot/reward.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603)
+
+A long-only trading bot for the make.fun BTC race, built by an AI agent
+for make.fun's
+["Race a BTC trading bot live for 24 hours"](https://make.fun/bounty/btc-race-24h-20261117-0603)
+bounty ($250 in USDC): it trades Coinbase Wrapped BTC (cbBTC)
 against USDC on 1-minute on-chain bars from the Orca Whirlpool pool,
 starting with $1,000 of paper money. Simulation only — nothing is
 traded for real.
